@@ -8,6 +8,7 @@ namespace Tenis.Dall.model
     public class Game
     {
         public int cod { get; set; }
+        
 
         public Partida partida { get; set; }
 
