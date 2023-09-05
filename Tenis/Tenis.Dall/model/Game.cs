@@ -17,6 +17,4 @@ namespace Tenis.Dall.model
 
         public int game2 { get; set; }
     }
-
-    // quero esse aqui
 }
